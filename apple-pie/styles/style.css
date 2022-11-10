@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+/* configuración de página */
+* {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+/* configuración de imágenes */
+.header-image {
+    width: 500px;
+}
+
+/* configuración de fuente */
